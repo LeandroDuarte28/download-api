@@ -1,3 +1,7 @@
+export const config = {
+  runtime: "edge",
+};
+
 export default async function handler(req, res) {
   try {
     const fileUrl = "https://raw.githubusercontent.com/LeandroDuarte28/DocsGraz/main/DECLARAÇÃO%20DE%20ENDEREÇO-2.pdf";
