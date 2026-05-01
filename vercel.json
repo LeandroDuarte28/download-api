@@ -1,11 +1,11 @@
 {
   "headers": [
     {
-      "source": "/DECL_ENDERECO.pdf",
+      "source": "/(.*).pdf",
       "headers": [
         {
           "key": "Content-Disposition",
-          "value": "attachment; filename=DECL_ENDERECO.pdf"
+          "value": "attachment"
         }
       ]
     }
